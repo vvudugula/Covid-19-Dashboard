@@ -1,0 +1,21 @@
+{
+  "name": "covid-19-dashboard-backend",
+  "version": "1.0.0",
+  "description": "Covid-19 dashboad backend services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Coivd-19",
+    "API"
+  ],
+  "author": "mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
